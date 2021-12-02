@@ -1,0 +1,18 @@
+$ git config --global user.name "Kenta Okuda"
+$ git config --global user.email "kenta.okuda@example.com"
+$ mkdir github
+$ cd github
+$ mkdir gittestHello
+$ cd gittest
+$ git init
+
+$ git add
+$ git commit -m ""
+$ git push origin master
+$ git status
+https://yuma-studio.net/programming/git-push-error/
+https://style.potepan.com/articles/31870.html
+https://qiita.com/Kenta-Okuda/items/c3dcd60a80a82147e1bfgit 
+https://www.sejuku.net/blog/8224
+aaaa
+https://howpon.com/5681
